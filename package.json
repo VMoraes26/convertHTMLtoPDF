@@ -6,7 +6,7 @@
     "faker": "^4.1.0",
     "pdfmake": "^0.1.62",
     "react": "16.1.1",
-    "react-dom": "16.1.1"
+    "react-dom": "16.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
