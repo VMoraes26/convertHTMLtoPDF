@@ -1,5 +1,6 @@
 import React from 'react'
 import { render } from 'react-dom'
+import faker from 'faker'
 
 import createPDFTable from './createPDFTable'
 
